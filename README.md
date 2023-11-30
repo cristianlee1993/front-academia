@@ -1,5 +1,5 @@
 # front-academia
-
+Este es un proyecto en vuejs que sigue en desarrollo para la gestioón academica.
 ## Project setup
 ```
 npm install
